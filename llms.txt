@@ -1,0 +1,25 @@
+# ClearCrest Water & Air
+
+> Whole-home water softening, PFAS drinking water filtration, and whole-house
+> air purification for Utah homeowners. Free 20-minute in-home water and air
+> test with a written ClearCrest Home Report.
+> Email: schedule@clearcresthome.com
+
+## Services
+- Water: non-electric twin-tank softening for Utah's 15 to 30+ gpg hard water,
+  reverse osmosis, certified PFAS reduction media, UV disinfection
+- Air: MERV 13-16 media air cleaners in the existing return duct, in-duct UV
+  purification for inversion and wildfire smoke seasons
+- CrestCare maintenance memberships from $29/month (salt delivery, filter and
+  media changes, UV lamp replacement); water systems from $5,000, financing available
+
+## Pages
+- Home: https://clearcresthome.com/
+- Park City: https://clearcresthome.com/locations/park-city/
+- Heber City: https://clearcresthome.com/locations/heber-city/
+- Eagle Mountain: https://clearcresthome.com/locations/eagle-mountain/
+- South Jordan / Daybreak: https://clearcresthome.com/locations/south-jordan-daybreak/
+- Lehi: https://clearcresthome.com/locations/lehi/
+- St. George: https://clearcresthome.com/locations/st-george/
+- Scottsdale AZ: https://clearcresthome.com/locations/scottsdale-az/
+- Agent facts: https://clearcresthome.com/ai-agents.json

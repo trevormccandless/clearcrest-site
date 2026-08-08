@@ -1,9 +1,9 @@
-# Fairway Filter — Target Markets & Location Site Strategy
+# ClearCrest — Target Markets & Location Site Strategy
 *Top states, metros, and ICPs, and the site architecture they drive · August 2026*
 
 ## 1. The Targeting Model
 
-Fairway Filter wins where four conditions stack: (1) very hard water (10.5+ gpg by USGS definition, ideally 15+), (2) golf and master-planned community density, (3) affluent, growing homeowner populations, and (4) an air quality burden (inversions, dust, or wildfire smoke) that makes the air+water bundle sell itself. A fifth filter, competitive intensity, breaks ties: markets already saturated by strong Culligan/Kinetico dealers or air+water pure-plays score lower.
+ClearCrest wins where four conditions stack: (1) very hard water (10.5+ gpg by USGS definition, ideally 15+), (2) golf and master-planned community density, (3) affluent, growing homeowner populations, and (4) an air quality burden (inversions, dust, or wildfire smoke) that makes the air+water bundle sell itself. A fifth filter, competitive intensity, breaks ties: markets already saturated by strong Culligan/Kinetico dealers or air+water pure-plays score lower.
 
 Roughly 85% of U.S. homes have some hard water, but the extreme markets cluster in the Southwest, Mountain West, Texas, and parts of the Midwest, driven by limestone geology and arid-climate evaporation concentrating minerals in river-fed supplies (the Colorado River system feeding Las Vegas and Phoenix, the Edwards Aquifer under San Antonio).
 
@@ -33,23 +33,23 @@ Roughly 85% of U.S. homes have some hard water, but the extreme markets cluster 
 | 7 | Las Vegas — Summerlin / Henderson, NV | ~16 gpg | Summerlin, Anthem, Lake Las Vegas | Dust | Universal softener need |
 | 8 | San Antonio — Hill Country, TX | 15–20 gpg | Dominion, Cordillera Ranch | Cedar allergens | Edwards Aquifer story writes itself |
 | 9 | Naples / Bonita Springs, FL | Hard + PFAS salience | 90+ courses; most golf holes per capita in U.S. | Humidity/mold (UV story) | Highest ICP density anywhere |
-| 10 | Palm Desert / La Quinta, CA | Hard Colorado River water | PGA West, Indian Wells corridor | Dust | Seasonal residents fit Champion plan |
+| 10 | Palm Desert / La Quinta, CA | Hard Colorado River water | PGA West, Indian Wells corridor | Dust | Seasonal residents fit Concierge plan |
 
 ## 4. Ideal Customer Profiles
 
 **ICP 1 — The Fairway Family (primary, ~60% of revenue target).** Ages 35–60, household income $150k+, home value $700k+, living in a golf or master-planned community. Health-conscious (PFAS, kids' allergies), time-poor, convenience buyers who join memberships everywhere else in their lives. Triggers: new build move-in, dead tankless heater, a neighbor's referral, a bad inversion week. Buys the bundle; attaches to Member tier.
 
-**ICP 2 — The Lock-and-Leave Owner (premium, ~25%).** Ages 55+, primary or second home in Park City, St. George, Scottsdale, or Naples. Away for weeks at a time; wants monitored, maintained, transferable protection and same-day emergency response. Highest tickets, lowest price sensitivity, natural Champion-tier member. Reached through HOAs, property managers, and club pro shops rather than Google.
+**ICP 2 — The Lock-and-Leave Owner (premium, ~25%).** Ages 55+, primary or second home in Park City, St. George, Scottsdale, or Naples. Away for weeks at a time; wants monitored, maintained, transferable protection and same-day emergency response. Highest tickets, lowest price sensitivity, natural Concierge-tier member. Reached through HOAs, property managers, and club pro shops rather than Google.
 
 **ICP 3 — The New-Build Buyer (pipeline, ~15%).** Buying in a growth community (Eagle Mountain, Daybreak, Cedar Valley). Water is at its worst, budgets are stretched, financing matters. Reached through builder and realtor partnerships; converts on the free test at move-in and grows into higher tiers over time.
 
-**Secondary — HOA & light commercial.** Clubhouses, pro shops, and HOA common facilities in the same communities; small revenue, outsized visibility and referral value.
+**Secondary — HOA & light commercial.** CrestCares, pro shops, and HOA common facilities in the same communities; small revenue, outsized visibility and referral value.
 
 ## 5. Site Architecture (hub and spoke)
 
 The site mirrors the targeting model in four layers, all generated from one config so content, schema, and the AI-agent layer never drift:
 
-**Layer 1 — Brand homepage** (built): national positioning, systems, Clubhouse Plan, wizard.
+**Layer 1 — Brand homepage** (built): national positioning, systems, CrestCare plan, wizard.
 **Layer 2 — State hubs** (`/utah/`, `/arizona/`): the state's water and air story, metro links, state licensing/credential language. Target keywords: "water softener utah", "pfas filter utah".
 **Layer 3 — Metro/city pages** (built, 7 pages): localized hardness data, hero, scorecard, FAQs, LocalBusiness schema with geo coordinates, and local extraction copy. Target keywords: "water softener park city", "water softener cost eagle mountain", "whole house air purifier scottsdale".
 **Layer 4 — Community pages** (the moat): one page per named golf community ("Water Softening in Promontory", "Daybreak Water Hardness Guide"). Nobody in this market builds at the community level; these are low-volume, near-zero-competition, extremely high-intent pages that also flatter the HOA/club partnership channel. Build once installs exist there, so each page can carry a real neighbor review and photos.

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 500" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A78C0"/><stop offset="1" stop-color="#8AC838"/>
+    </linearGradient>
+    <linearGradient id="deep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A78C0"/><stop offset="1" stop-color="#065A90"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#EAF4FB"/><stop offset="1" stop-color="#D3E9F7"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ============ LEFT: KIP THE KINGFISHER — FULL CHARACTER ============ -->
+  <g id="kip">
+    <circle cx="235" cy="235" r="195" fill="url(#glow)"/>
+
+    <!-- water splash base -->
+    <ellipse cx="235" cy="392" rx="120" ry="22" fill="#0A78C0" opacity="0.15"/>
+    <path d="M150 388 q10 -26 24 -6 q8 -18 18 -2 Z" fill="#0A78C0" opacity="0.45"/>
+    <path d="M292 390 q8 -24 20 -6 q7 -15 15 -1 Z" fill="#0A78C0" opacity="0.45"/>
+    <circle cx="135" cy="368" r="5" fill="#0A78C0" opacity="0.4"/>
+    <circle cx="330" cy="372" r="6" fill="#0A78C0" opacity="0.4"/>
+    <circle cx="315" cy="350" r="3.5" fill="#8AC838" opacity="0.6"/>
+
+    <!-- tail -->
+    <path d="M300 330 q52 8 66 34 q-38 6 -66 -8 Z" fill="#065A90"/>
+
+    <!-- body -->
+    <ellipse cx="230" cy="300" rx="92" ry="96" fill="url(#deep)"/>
+    <!-- belly -->
+    <ellipse cx="222" cy="322" rx="60" ry="66" fill="#FFFFFF"/>
+    <!-- rust chest band (belted kingfisher) -->
+    <path d="M164 292 q58 34 118 0 q4 12 3 20 q-62 32 -124 0 q-1 -10 3 -20 Z" fill="#F5A623"/>
+
+    <!-- wing -->
+    <g>
+      <ellipse cx="298" cy="292" rx="34" ry="58" fill="#0A78C0" transform="rotate(-18 298 292)"/>
+      <path d="M288 258 q26 20 24 66" stroke="#065A90" stroke-width="5" fill="none" stroke-linecap="round"/>
+      <circle cx="306" cy="270" r="4" fill="#8AC838"/>
+      <circle cx="312" cy="290" r="4" fill="#8AC838"/>
+      <circle cx="314" cy="310" r="4" fill="#8AC838"/>
+    </g>
+
+    <!-- head -->
+    <circle cx="210" cy="176" r="84" fill="url(#deep)"/>
+    <!-- white collar -->
+    <path d="M132 214 q78 40 158 0 q3 12 1 18 q-80 36 -160 0 q-2 -8 1 -18 Z" fill="#FFFFFF"/>
+
+    <!-- CREST: the signature -->
+    <path d="M176 106 q-4 -34 18 -46 q2 20 14 28 q4 -30 26 -36 q-2 22 8 30 q10 -22 30 -24 q-8 22 0 34 q-40 -18 -96 14 Z" fill="#065A90"/>
+    <path d="M196 96 q0 -18 12 -26 q2 12 8 17 Z" fill="#8AC838" opacity="0.9"/>
+
+    <!-- face mask -->
+    <ellipse cx="186" cy="182" rx="44" ry="40" fill="#FFFFFF" opacity="0.95"/>
+
+    <!-- eyes -->
+    <circle cx="178" cy="172" r="21" fill="#FFFFFF"/>
+    <circle cx="182" cy="174" r="12" fill="#0F172A"/>
+    <circle cx="186" cy="169" r="4.5" fill="#FFFFFF"/>
+    <circle cx="236" cy="170" r="17" fill="#FFFFFF"/>
+    <circle cx="233" cy="172" r="10" fill="#0F172A"/>
+    <circle cx="236" cy="168" r="3.5" fill="#FFFFFF"/>
+
+    <!-- beak: long kingfisher bill, friendly -->
+    <path d="M148 196 L84 214 q-6 2 0 6 L150 214 q10 -2 10 -9 q0 -7 -12 -9 Z" fill="#F5A623"/>
+    <path d="M150 208 L92 217 L150 214 Z" fill="#D98A12"/>
+
+    <!-- cheek blush -->
+    <circle cx="252" cy="196" r="8" fill="#F5A623" opacity="0.35"/>
+
+    <!-- feet -->
+    <path d="M198 388 q2 12 -8 14 M198 388 q6 12 14 12 M262 386 q2 12 -8 14 M262 386 q6 12 14 12" stroke="#F5A623" stroke-width="7" fill="none" stroke-linecap="round"/>
+
+    <!-- held water drop -->
+    <g transform="translate(300 352)">
+      <path d="M0 -22 q16 20 0 34 q-16 -14 0 -34 Z" fill="#0A78C0"/>
+      <circle cx="-3" cy="4" r="3" fill="#FFFFFF" opacity="0.8"/>
+    </g>
+
+    <!-- air swirls -->
+    <path d="M84 120 q22 -12 40 2 M76 142 q16 -8 30 0" stroke="#8AC838" stroke-width="4.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <!-- ============ RIGHT: BADGE / APP-ICON VERSION ============ -->
+  <g id="badge" transform="translate(510 0)">
+    <circle cx="215" cy="215" r="170" fill="url(#deep)"/>
+    <circle cx="215" cy="215" r="170" fill="none" stroke="url(#brand)" stroke-width="8"/>
+
+    <!-- simplified head-only mark -->
+    <circle cx="215" cy="228" r="104" fill="#FFFFFF" opacity="0.08"/>
+    <circle cx="215" cy="232" r="92" fill="#0A78C0"/>
+    <path d="M178 154 q-4 -34 18 -44 q2 18 13 26 q5 -28 25 -34 q-1 22 8 30 q11 -20 29 -22 q-8 20 0 32 q-42 -18 -93 12 Z" fill="#FFFFFF"/>
+    <ellipse cx="192" cy="238" rx="46" ry="42" fill="#FFFFFF"/>
+    <circle cx="184" cy="228" r="21" fill="#FFFFFF"/>
+    <circle cx="188" cy="230" r="12" fill="#0F172A"/>
+    <circle cx="192" cy="225" r="4.5" fill="#FFFFFF"/>
+    <circle cx="244" cy="226" r="16" fill="#FFFFFF"/>
+    <circle cx="241" cy="228" r="9.5" fill="#0F172A"/>
+    <circle cx="244" cy="224" r="3.5" fill="#FFFFFF"/>
+    <path d="M154 252 L96 268 q-6 2 0 6 L156 270 q10 -2 10 -9 q0 -7 -12 -9 Z" fill="#F5A623"/>
+    <path d="M262 300 q10 10 0 20 q-10 -10 0 -20 Z" fill="#8AC838"/>
+
+    <text x="215" y="452" text-anchor="middle" font-size="26" font-weight="700" fill="#065A90" letter-spacing="4">KIP · CLEARCREST</text>
+  </g>
+
+  <text x="235" y="470" text-anchor="middle" font-size="17" fill="#64748B">Kingfishers only live where the water is clean.</text>
+</svg>

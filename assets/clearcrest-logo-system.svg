@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="Outfit, sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A78C0"/><stop offset="1" stop-color="#8AC838"/>
+    </linearGradient>
+    <linearGradient id="gd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#065A90"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ===== 1. THE MARK: crest peaks + waterline + drop ===== -->
+  <g id="mark" transform="translate(60,50)">
+    <text x="70" y="-14" font-size="13" fill="#94A3B8" text-anchor="middle" letter-spacing="2">MARK</text>
+    <!-- crest line: mountain peaks / kingfisher crest -->
+    <path d="M10 96 L44 36 L62 66 L86 16 L118 96" fill="none" stroke="url(#g)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- waterline -->
+    <path d="M8 118 q16 -12 32 0 q16 12 32 0 q16 -12 32 0 q8 6 16 2" fill="none" stroke="#0A78C0" stroke-width="9" stroke-linecap="round"/>
+    <!-- drop in the valley -->
+  </g>
+
+  <!-- ===== 2. BADGE / FAVICON ===== -->
+  <g id="badge" transform="translate(300,30)">
+    <text x="80" y="6" font-size="13" fill="#94A3B8" text-anchor="middle" letter-spacing="2">BADGE / FAVICON</text>
+    <rect x="0" y="20" width="160" height="160" rx="38" fill="url(#gd)"/>
+    <path d="M28 128 L58 76 L74 102 L96 58 L132 128" fill="none" stroke="url(#g)" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M30 148 q14 -10 28 0 q14 10 28 0 q14 -10 28 0 q7 5 16 1" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <!-- 32px test -->
+    <g transform="translate(190,142) scale(0.2)">
+      <rect x="0" y="0" width="160" height="160" rx="38" fill="url(#gd)"/>
+      <path d="M28 108 L58 56 L74 82 L96 38 L132 108" fill="none" stroke="url(#g)" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M30 132 q14 -10 28 0 q14 10 28 0 q14 -10 28 0" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+    </g>
+    <text x="206" y="192" font-size="10" fill="#94A3B8">32px</text>
+  </g>
+
+  <!-- ===== 3. HORIZONTAL LOCKUP (primary) ===== -->
+  <g id="horizontal" transform="translate(560,44)">
+    <text x="170" y="-8" font-size="13" fill="#94A3B8" text-anchor="middle" letter-spacing="2">PRIMARY LOCKUP</text>
+    <g transform="scale(0.72)">
+      <path d="M10 96 L44 36 L62 66 L86 16 L118 96" fill="none" stroke="url(#g)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M8 118 q16 -12 32 0 q16 12 32 0 q16 -12 32 0 q8 6 16 2" fill="none" stroke="#0A78C0" stroke-width="9" stroke-linecap="round"/>
+    </g>
+    <text x="112" y="62" font-size="46" font-weight="800" letter-spacing="-1.5">
+      <tspan fill="#0F172A">Clear</tspan><tspan fill="#0A78C0">Crest</tspan>
+    </text>
+    <text x="115" y="90" font-size="15.5" font-weight="600" fill="#64748B" letter-spacing="6.5">WATER &amp; AIR</text>
+  </g>
+
+  <!-- ===== 4. STACKED LOCKUP ===== -->
+  <g id="stacked" transform="translate(120,300)">
+    <text x="90" y="0" font-size="13" fill="#94A3B8" text-anchor="middle" letter-spacing="2">STACKED</text>
+    <g transform="translate(28,18) scale(0.95)">
+      <path d="M10 96 L44 36 L62 66 L86 16 L118 96" fill="none" stroke="url(#g)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M8 118 q16 -12 32 0 q16 12 32 0 q16 -12 32 0 q8 6 16 2" fill="none" stroke="#0A78C0" stroke-width="9" stroke-linecap="round"/>
+    </g>
+    <text x="90" y="188" font-size="38" font-weight="800" letter-spacing="-1" text-anchor="middle">
+      <tspan fill="#0F172A">Clear</tspan><tspan fill="#0A78C0">Crest</tspan>
+    </text>
+    <text x="90" y="214" font-size="13" font-weight="600" fill="#64748B" letter-spacing="5.5" text-anchor="middle">WATER &amp; AIR</text>
+  </g>
+
+  <!-- ===== 5. REVERSED ON DARK ===== -->
+  <g id="reversed" transform="translate(380,300)">
+    <rect x="0" y="12" width="560" height="230" rx="24" fill="url(#gd)"/>
+    <text x="280" y="0" font-size="13" fill="#94A3B8" text-anchor="middle" letter-spacing="2">REVERSED</text>
+    <g transform="translate(70,64) scale(0.72)">
+      <path d="M10 96 L44 36 L62 66 L86 16 L118 96" fill="none" stroke="url(#g)" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M8 118 q16 -12 32 0 q16 12 32 0 q16 -12 32 0 q8 6 16 2" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.92"/>
+    </g>
+    <text x="182" y="128" font-size="46" font-weight="800" letter-spacing="-1.5">
+      <tspan fill="#FFFFFF">Clear</tspan><tspan fill="#8AC838">Crest</tspan>
+    </text>
+    <text x="185" y="156" font-size="15.5" font-weight="600" fill="#94A3B8" letter-spacing="6.5">WATER &amp; AIR</text>
+  </g>
+
+  <text x="500" y="600" text-anchor="middle" font-size="15" fill="#64748B">The crest reads three ways: mountain peaks (Utah), a kingfisher's crest (Kip), and a rising waterline. One mark, whole story.</text>
+</svg>

@@ -1,11 +1,11 @@
-# Fairway Filter — Content & Marketing Plan
+# ClearCrest — Content & Marketing Plan
 *Air & Water Protection for the Fairway Lifestyle · Prepared August 2026*
 
 ## 1. Positioning
 
-Fairway Filter is not a water softener company. It is a home-environment protection brand for Utah's most desirable communities. The positioning rests on three pillars that every piece of content should reinforce:
+ClearCrest is not a water softener company. It is a home-environment protection brand for Utah's most desirable communities. The positioning rests on three pillars that every piece of content should reinforce:
 
-**Health** — PFAS-free drinking water, allergen- and smoke-free indoor air. **Home value** — hard water at 15–30+ grains destroys appliances and plumbing; protection is an asset, and a transferable Champion plan becomes a listing-sheet feature when the home sells. **Lifestyle** — the golf-community customer buys premium, quiet, invisible solutions maintained by someone else. The brand voice is the clubhouse, not the hardware store: confident, warm, a little playful (the golf scorecard metaphor), never technical-first.
+**Health** — PFAS-free drinking water, allergen- and smoke-free indoor air. **Home value** — hard water at 15–30+ grains destroys appliances and plumbing; protection is an asset, and a transferable Concierge plan becomes a listing-sheet feature when the home sells. **Lifestyle** — the golf-community customer buys premium, quiet, invisible solutions maintained by someone else. The brand voice is the clubhouse, not the hardware store: confident, warm, a little playful (the golf scorecard metaphor), never technical-first.
 
 The core creative device is the **scorecard**: Utah water "plays 20 over par," and every in-home test produces a written Home Scorecard for the customer's exact address. This turns a sales visit into a keepsake and a referral object.
 
@@ -22,7 +22,7 @@ The channel mix is weighted toward proximity and trust rather than broad digital
 | Channel | Role | Monthly budget (Year 1 guide) |
 |---|---|---|
 | Google Local Services Ads + Search | Capture high-intent demand ("water softener Park City," "PFAS filter Utah") | $2,000–3,500 |
-| Meta/Instagram geo-targeted to golf communities | Awareness + Finn brand content + before/after scale photos | $1,000–1,500 |
+| Meta/Instagram geo-targeted to golf communities | Awareness + Kip brand content + before/after scale photos | $1,000–1,500 |
 | Nextdoor + community Facebook groups | Referral engine; sponsored neighborhood posts | $300–500 |
 | Golf course & HOA partnerships | Scorecard sponsorships, tee signs, club newsletters, pro shop displays | $500–1,000 |
 | Direct mail to target neighborhoods | Oversized scorecard-styled mailer with free-test offer | $800–1,500 (pulsed) |
@@ -33,7 +33,7 @@ Total paid media guide: **$4,500–8,000/month**, scaling with close rates. At a
 
 ## 4. Content Plan (First 90 Days)
 
-**Website (launch asset, built):** Hero scorecard, water and air system pages, Clubhouse Plan tiers, Finn section, booking CTA. Add a self-service "Get your neighborhood's water score" lead magnet in month 2 — a ZIP-code lookup that emails a mini scorecard and books a test.
+**Website (launch asset, built):** Hero scorecard, water and air system pages, CrestCare plan tiers, Kip section, booking CTA. Add a self-service "Get your neighborhood's water score" lead magnet in month 2 — a ZIP-code lookup that emails a mini scorecard and books a test.
 
 **Monthly blog/SEO cadence (2 posts/month):**
 Month 1: "How hard is the water in [Park City / Eagle Mountain / Daybreak]? We tested it." and "PFAS in Utah water: what homeowners actually need to know."
@@ -42,18 +42,18 @@ Month 3: "Softener vs. conditioner vs. filter: a CPA's honest cost-per-year comp
 
 The CPA-authored cost-of-ownership angle is a genuine differentiator — no competitor publishes honest 10-year math, and it builds trust with an affluent, analytical buyer.
 
-**Social cadence (3x/week):** One proof post (scale-caked heater element, water test vial photos), one Finn/lifestyle post (Finn on the course, Finn delivered to a family), one educational post (scorecard graphics, inversion PM2.5 screenshots on bad-air days — post these *the day of* inversions and smoke events for outsized engagement).
+**Social cadence (3x/week):** One proof post (scale-caked heater element, water test vial photos), one Kip/lifestyle post (Kip on the course, Kip delivered to a family), one educational post (scorecard graphics, inversion PM2.5 screenshots on bad-air days — post these *the day of* inversions and smoke events for outsized engagement).
 
 **Seasonal campaigns:** January–February "Inversion Season" air push; July–September "Smoke Season" air push; spring "Home Value Tune-Up" water push timed to listing season; November "Give the Gift of Soft Water" holiday financing push.
 
-## 5. The Finn Program
+## 5. The Kip Program
 
-Finn the Fairway Falcon is a marketing asset, not just a mascot. Every in-home test ends with a plush Finn left with the family regardless of purchase. Cost roughly $8–12/unit at volume; it converts a sales call into a gift, keeps the brand physically in the home, and photographs well. Extensions: Finn stickers for kids at community events, a "Where's Finn?" Instagram feature at local courses, and a Finn-branded annual water report for Champion members.
+Kip the Kingfisher is a marketing asset, not just a mascot. Every in-home test ends with a plush Kip left with the family regardless of purchase. Cost roughly $8–12/unit at volume; it converts a sales call into a gift, keeps the brand physically in the home, and photographs well. Extensions: Kip stickers for kids at community events, a "Where's Kip?" Instagram feature at local courses, and a Kip-branded annual water report for Concierge members.
 
 ## 6. Referral & Retention Engine
 
-Every install triggers a 30-day follow-up visit (quality check + review request), a Google review ask with a direct link, and a neighbor referral card ("Give your neighbor a free scorecard — you both get a month of Clubhouse free"). Clubhouse membership itself is the retention program: the target is 70%+ of installs converting to a monthly plan, which compounds into the recurring cash flow the business model depends on. Track referral source on every lead from day one — the CPA discipline applied to CAC by channel will be the firm's structural advantage.
+Every install triggers a 30-day follow-up visit (quality check + review request), a Google review ask with a direct link, and a neighbor referral card ("Give your neighbor a free scorecard — you both get a month of CrestCare free"). CrestCare membership itself is the retention program: the target is 70%+ of installs converting to a monthly plan, which compounds into the recurring cash flow the business model depends on. Track referral source on every lead from day one — the CPA discipline applied to CAC by channel will be the firm's structural advantage.
 
 ## 7. KPIs
 
-Track weekly: booked tests, test-to-close rate, average ticket, Clubhouse attach rate, CAC by channel, Google review count/rating. Targets for month 6: 20+ tests/month, 30% close, $7,500+ average ticket, 60% Clubhouse attach, 50+ Google reviews at 4.9.
+Track weekly: booked tests, test-to-close rate, average ticket, CrestCare attach rate, CAC by channel, Google review count/rating. Targets for month 6: 20+ tests/month, 30% close, $7,500+ average ticket, 60% CrestCare attach, 50+ Google reviews at 4.9.

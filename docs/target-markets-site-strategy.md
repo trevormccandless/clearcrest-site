@@ -37,7 +37,7 @@ Roughly 85% of U.S. homes have some hard water, but the extreme markets cluster 
 
 ## 4. Ideal Customer Profiles
 
-**ICP 1 — The Fairway Family (primary, ~60% of revenue target).** Ages 35–60, household income $150k+, home value $700k+, living in a golf or master-planned community. Health-conscious (PFAS, kids' allergies), time-poor, convenience buyers who join memberships everywhere else in their lives. Triggers: new build move-in, dead tankless heater, a neighbor's referral, a bad inversion week. Buys the bundle; attaches to Member tier.
+**ICP 1 — The Clubhouse Family (golf-community ICP) (primary, ~60% of revenue target).** Ages 35–60, household income $150k+, home value $700k+, living in a golf or master-planned community. Health-conscious (PFAS, kids' allergies), time-poor, convenience buyers who join memberships everywhere else in their lives. Triggers: new build move-in, dead tankless heater, a neighbor's referral, a bad inversion week. Buys the bundle; attaches to Complete tier.
 
 **ICP 2 — The Lock-and-Leave Owner (premium, ~25%).** Ages 55+, primary or second home in Park City, St. George, Scottsdale, or Naples. Away for weeks at a time; wants monitored, maintained, transferable protection and same-day emergency response. Highest tickets, lowest price sensitivity, natural Concierge-tier member. Reached through HOAs, property managers, and club pro shops rather than Google.
 

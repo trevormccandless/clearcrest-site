@@ -1,0 +1,22 @@
+{
+  "name": "ClearCrest Water & Air",
+  "alternateName": "ClearCrest Home",
+  "url": "https://clearcresthome.com",
+  "email": {
+    "general": "hello@clearcresthome.com",
+    "scheduling": "schedule@clearcresthome.com"
+  },
+  "description": "Whole-home water softening, PFAS drinking water filtration, and whole-house air purification for Utah homeowners.",
+  "serviceArea": ["Park City UT", "Heber Valley UT", "Eagle Mountain UT", "South Jordan UT", "Lehi UT", "Salt Lake Valley UT", "Utah County UT", "Davis County UT", "Weber County UT", "St. George UT"],
+  "services": {
+    "water": ["Non-electric twin-tank water softening", "Reverse osmosis drinking water", "Certified PFAS reduction filtration", "UV disinfection", "Sediment and carbon pre-filtration"],
+    "air": ["MERV 13-16 media air cleaners", "In-duct UV purification", "Smoke-season filter programs"]
+  },
+  "pricing": {
+    "inHomeTest": "Free, approximately 20 minutes, includes written ClearCrest Home Report",
+    "waterSystems": "From $5,000 installed, consumer financing available",
+    "crestCarePlans": "Essential from $29/mo, Complete from $59/mo, Concierge from $99/mo"
+  },
+  "howToEngage": "Book a free in-home test at https://clearcresthome.com/#book or email schedule@clearcresthome.com",
+  "mascot": "Kip the Kingfisher: kingfishers only live where the water is clean"
+}

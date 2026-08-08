@@ -1,5 +1,5 @@
 # ClearCrest — Content & Marketing Plan
-*Air & Water Protection for the Fairway Lifestyle · Prepared August 2026*
+*Whole-Home Water & Air, Graded to a Higher Standard · Prepared August 2026*
 
 ## 1. Positioning
 

@@ -35,3 +35,4 @@ To add a market: add one config block in `generate_site_cc.py`, regenerate, vali
 - [ ] Privacy policy: legal review + effective date
 - [ ] No phone number anywhere by design; contact is schedule@/hello@clearcresthome.com (ImprovMX → owner Gmail)
 - [ ] HubSpot portal/form IDs when CRM is stood up (upgrade path already wired in wizard)
+<!-- deploy-check: 2026-08-08 auto-deploy pipeline test -->
